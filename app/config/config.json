@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "pratty",
+    "database": "passportauth",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "postgres",
+    "password": "pratty",
+    "database": "passportauth",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "postgres",
+    "password": "pratty",
+    "database": "passportauth",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
